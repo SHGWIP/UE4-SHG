@@ -858,3 +858,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.24-00.02.27:978][  4]LogPython: tcp server spawned on 127.0.0.1:13428
 [2019.11.24-00.04.25:723][668]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={672A7B8E-4419-9BA3-411C-779C7E03A54A}
 [2019.11.24-00.08.26:586][388]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DBE61B58-4CC0-5AF8-218A-FDB00E8ABC64}
+[2019.11.24-00.12.27:480][ 98]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D3CB5AC9-4840-168E-125E-D39CDE25FFF8}
+[2019.11.24-00.16.21:435][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-00.21.57:161][235]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.11.24-00.22.02:155][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
